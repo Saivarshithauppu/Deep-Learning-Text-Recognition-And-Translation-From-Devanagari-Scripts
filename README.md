@@ -1,1 +1,2 @@
 # Deep-Learning-Text-Recognition-And-Translation-From-Devanagari-Scripts
+Our project utilizes Optical Character Recognition (OCR) to extract Devanagari text from images and translates it into English using Transformer-based AI models. Additionally, it supports multi-language translation, enabling conversions beyond English, such as Sanskrit → Telugu and Sanskrit → German . The model is deployed as a user-friendly web app, making it accessible for seamless interaction and real-time translations.
