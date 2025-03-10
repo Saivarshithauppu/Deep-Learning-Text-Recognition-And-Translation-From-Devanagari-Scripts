@@ -1,0 +1,1 @@
+# Deep-Learning-Text-Recognition-And-Translation-From-Devanagari-Scripts
