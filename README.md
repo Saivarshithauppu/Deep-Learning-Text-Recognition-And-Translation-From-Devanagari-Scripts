@@ -15,9 +15,9 @@ PIL (Pillow) (for image handling)
 Requests (for API communication)
 # How It Works
 * Upload an Image – Upload an image containing Sanskrit text in Devanagari script.
-Text Extraction – The app extracts text using Tesseract OCR.
-Translation to English – The extracted text is translated into English using NLLB-200 and Gemini API.
-Multi-Language Translation – Users can translate the English text into Telugu, Tamil, German, French, or Spanish.
+* Text Extraction – The app extracts text using Tesseract OCR.
+* Translation to English – The extracted text is translated into English using NLLB-200 and Gemini API.
+* Multi-Language Translation – Users can translate the English text into Telugu, Tamil, German, French, or Spanish.
 # Usage
 ## Run the Streamlit App
 ```
