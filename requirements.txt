@@ -1,0 +1,8 @@
+streamlit
+torch
+transformers
+pytesseract
+Pillow
+google-generativeai
+
+
